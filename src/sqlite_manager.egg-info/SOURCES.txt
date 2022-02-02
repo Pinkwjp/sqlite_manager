@@ -1,0 +1,9 @@
+pyproject.toml
+setup.cfg
+src/sqlite_manager.egg-info/PKG-INFO
+src/sqlite_manager.egg-info/SOURCES.txt
+src/sqlite_manager.egg-info/dependency_links.txt
+src/sqlite_manager.egg-info/top_level.txt
+src/sqlite_manager_package/__init__.py
+src/sqlite_manager_package/common_query.py
+src/sqlite_manager_package/sqlite_manager.py

@@ -1,0 +1,13 @@
+pyproject.toml
+setup.cfg
+example/__init__.py
+example/example_data.py
+example/example_query.py
+example/example_transaction.py
+sqlite_manager.egg-info/PKG-INFO
+sqlite_manager.egg-info/SOURCES.txt
+sqlite_manager.egg-info/dependency_links.txt
+sqlite_manager.egg-info/top_level.txt
+src/__init__.py
+src/common_query.py
+src/sqlite_manager.py
