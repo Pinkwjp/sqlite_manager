@@ -1,6 +1,7 @@
-from src.sqlite_manager import SqliteManager
+from sqlite_manager_package.sqlite_manager import SqliteManager
 from example.example_data import teachers
 from example.example_query import ExampleQuery
+
 
 def do_some_transactions() -> None:
     manager = SqliteManager(sqlite_db_path='./data/teacher.db')

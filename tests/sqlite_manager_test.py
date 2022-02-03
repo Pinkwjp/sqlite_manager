@@ -3,7 +3,7 @@ from unittest import TestCase, main
 import os
 import pathlib
 
-from src.sqlite_manager_package.sqlite_manager import SqliteManager
+from sqlite_manager_package.sqlite_manager import SqliteManager
 from example.example_query import ExampleQuery
 from example.example_data import teachers
 

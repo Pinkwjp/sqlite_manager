@@ -1,3 +1,5 @@
+LICENSE
+README.md
 pyproject.toml
 setup.cfg
 src/sqlite_manager.egg-info/PKG-INFO

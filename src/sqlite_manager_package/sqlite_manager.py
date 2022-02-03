@@ -9,8 +9,8 @@ import sqlite3
 import pathlib
 from typing import Any, Iterable, Tuple, List, Optional
 
-from src.sqlite_manager_package.common_query import CommonQuery
 
+from sqlite_manager_package.common_query import CommonQuery
 
 class SqliteManager:
     """a class to execute basic sqlite queries"""
